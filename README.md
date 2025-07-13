@@ -1,2 +1,2 @@
-# sushd-emo
+# sush-demo
 my first repo
